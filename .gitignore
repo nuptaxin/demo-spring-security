@@ -1,5 +1,3 @@
 target/
 .idea/
-demo-spring-security.iml
-./../target/
-./../*.iml
+*.iml
