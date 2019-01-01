@@ -10,6 +10,7 @@
     <modules>
         <module>demo-spring-security-quickstart</module>
         <module>demo-spring-security-login</module>
+      <module>demo-spring-security-basiclogin</module>
     </modules>
     <packaging>pom</packaging>
 
