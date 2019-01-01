@@ -9,6 +9,7 @@
   <version>1.0-SNAPSHOT</version>
     <modules>
         <module>demo-spring-security-quickstart</module>
+        <module>demo-spring-security-login</module>
     </modules>
     <packaging>pom</packaging>
 
